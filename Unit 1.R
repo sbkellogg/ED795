@@ -17,4 +17,8 @@ physics <- gutenberg_download(c(37729, 14725, 13476, 55586),
 physics <- gutenberg_download(c(37729, 14725, 13476, 55586), 
                               meta_fields = "author")
 
+mutate()
+
+library(swirl)
+
 

@@ -2,3 +2,5 @@
 Course Files for ED 795 Text Mining in Education 
 
 Syllabus
+
+Intro
