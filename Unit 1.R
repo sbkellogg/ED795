@@ -3,7 +3,7 @@ setwd("/Volumes/GoogleDrive/My Drive/External Work/NCSU/ED 795 - Text Mining/R/E
 install.packages("tidyverse")
 library(tidyverse)
 
-
+ 
 install.packages("gutenbergr")
 library(gutenbergr) 
 
