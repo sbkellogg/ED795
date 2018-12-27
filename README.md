@@ -41,25 +41,25 @@ Office Hours: any weekday by appointment
 
 Required: 
 
-1. R (https://www.r-project.org) is an open-source language and computing environment for data manipulation, analysis, and visualization. Installation files for Windows, Mac, and Linux can be found at the website for the Comprehensive R Archive Network (CRAN), http://cran.r-project.org/. 
-2. R Studio (https://www.rstudio.com) is an integrated development environment (IDE) for R which includes an R console, syntax-highlighting editor, and tools for plotting, packages, and workspace management. The R Student Desktop application can be downloaded from https://www.rstudio.com/products/RStudio/#Desktop. 
+1. **R** (https://www.r-project.org) is an open-source language and computing environment for data manipulation, analysis, and visualization. Installation files for Windows, Mac, and Linux can be found at the website for the Comprehensive R Archive Network (CRAN), http://cran.r-project.org/. 
+2. **R Studio** (https://www.rstudio.com) is an integrated development environment (IDE) for R which includes an R console, syntax-highlighting editor, and tools for plotting, packages, and workspace management. The R Student Desktop application can be downloaded from https://www.rstudio.com/products/RStudio/#Desktop. 
 
 Optional:
 
-3. Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Installation and R Studio set up for Macs can be found here: https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html 
-4. GitHub is a web-based hosting service for version control using Git. You can create an account here: https://github.com 
+3. **Git** is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Installation and R Studio set up for Macs can be found here: https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html 
+4. **GitHub** is a web-based hosting service for version control using Git. You can create an account here: https://github.com 
 
 **Server Space:** NC State is a Google Apps for Education institution. Your Google Drive provides "an infinitely large, ultra-secure, and entirely free bookbag for the 21st century."  This space may be useful for your project work, or you may use a third-party Internet service provider to place your data files and projects online (e.g., Github, Dropbox). In addition, Moodle provides space for storing private files. 
 
-**Course Outcomes:** The primary goal of this course is to provide students with a deeper understanding of text mining as an approach to analyzing unstructured data and its application in educational context. By the conclusion of this course, students will be able to:
+**Course Outcomes:** The primary goal of this course is to provide students with a deeper understanding of text mining as an analytical approach, as well and the applications of text mining in educational contexts. By the conclusion of this course, students will be able to:
 
-1.	Define text mining and describe educational problems/questions/issues associated with the technique;
-2.	Identify relevant data sources and measures and explore their association with student learning;
-3.	;
-4.	Design and implement an analytics cycle that provides actionable insight into a learning environment;
-5.	Recommend guidelines for educational organizations for integrating a learning analytics model.
+1.	Define text mining and describe associated analytics techniques and data sources;
+2.	Identify educational problems/questions/issues text mining has been used to understand or address;
+3.	Prepare text-based data for analysis using tidy data principles;
+4.	Apply text mining analytical techniques including visualization, sentiment analysis, and topic modeling;
+5.	Recognize the ethical issues and limitations of using text mining approaches in education.
 
-Course Structure & Schedule: This course is divided into 4 four-week units focused on common techniques in the field of learning analytics. Each unit consist of two sections. Section 1 of each unit introduces basic terminology, core concepts, and applications of an analytical approach through readings and course videos. In Section 2 of each unit, students develop skills in explore are provided a video walk-through of the software features using educational data as an example will design and implement an investigation that addresses the main components of the data analytics cycle. 
+**Course Structure & Schedule:** This course is divided into 4 four-week units focused on common techniques in the field of learning analytics. Each unit consist of two sections. Section 1 of each unit introduces basic terminology, core concepts, and applications of an analytical approach through readings and course videos. In Section 2 of each unit, students develop skills in explore are provided a video walk-through of the software features using educational data as an example will design and implement an investigation that addresses the main components of the data analytics cycle. 
 
 Unit 1: An Introduction to Learning Analytics and Data Dashboards (Weeks 2-5; Jan 16-Feb 12)
 •	Introductions, syllabus review, and completed Learner Agreement.  
