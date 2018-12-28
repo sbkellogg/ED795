@@ -4,7 +4,7 @@ Course Files for ED 795 Text Mining in Education
 ### Syllabus
 
 
-**Course Overview:** As the use of digital resources continues expand in education, an unprecedented amount of new data is available to educators. Among these new data sources, unstructured data such as text represents a significant share. This introductory course to text mining is designed to prepare educational researchers and practitioners to use this data more efficiently, effectively, and ethically. This course will provide an overview of text mining as an analytical approach, examples of its use in educational contexts, and applied experience with tools and techniques. As participants gain experience in the collection, analysis, and reporting of data throughout the course, they will be better prepared help educational organizations understand and improve both online and blended learning environments.
+**Course Overview:** As the use of digital resources continues expand in education, an unprecedented amount of new data is becoming available to educational researchers and practitioners. Among these new data sources, unstructured data such as text represents a significant share. This introductory course to text mining is designed to prepare researchers and practitioners to use this data more efficiently, effectively, and ethically. This course will provide students with an overview of text mining as an analytical approach, examples of its use in educational contexts, and applied experience with widely adopted tools and techniques. As participants gain experience in the collection, analysis, and reporting of data throughout the course, they will be better prepared help educational organizations understand and improve both online and blended learning environments.
 
 
 **Number of Credits:** 3
@@ -46,7 +46,7 @@ Required:
 
 Optional:
 
-3. **Git** is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. Installation and R Studio set up for Macs can be found here: https://jennybc.github.io/2014-05-12-ubc/ubc-r/session03_git.html 
+3. **Git** is a free and open source distributed version control system. Jenny Bryan’s very thorough installation and R Studio set up process for Mac and Windows can be found here: http://happygitwithr.com. 
 4. **GitHub** is a web-based hosting service for version control using Git. You can create an account here: https://github.com 
 
 **Server Space:** NC State is a Google Apps for Education institution. Your Google Drive provides "an infinitely large, ultra-secure, and entirely free bookbag for the 21st century."  This space may be useful for your project work, or you may use a third-party Internet service provider to place your data files and projects online (e.g., Github, Dropbox). In addition, Moodle provides space for storing private files. 
