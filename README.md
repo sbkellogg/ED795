@@ -57,20 +57,24 @@ Optional:
 **Course Structure & Schedule:** This course is divided into 4 four-week units focused on common techniques in the field of learning analytics. Each unit consist of two sections. Section 1 of each unit introduces basic terminology, core concepts, and applications of an analytical approach through readings and course videos. In Section 2 of each unit, students develop skills in explore are provided a video walk-through of the software features using educational data as an example will design and implement an investigation that addresses the main components of the data analytics cycle. 
 
 Unit 1: An Introduction to Learning Analytics and Data Dashboards (Weeks 2-5; Jan 16-Feb 12)
-•	Introductions, syllabus review, and completed Learner Agreement.  
-•	Students are introduced to the field of Learning Analytics, including general approaches and applications, with an initial focus on visualization of learner data.
-•	Students develop basic skills with Tableau, a tool for data access and visualization, and create a data product that addresses a question of interest. 
+
+* Introductions, syllabus review, and completed Learner Agreement.  
+* Students are introduced to the field of Learning Analytics, including general approaches and applications, with an initial focus on visualization of learner data.  
+* Students develop basic skills with Tableau, a tool for data access and visualization, and create a data product that addresses a question of interest. 
 
 Unit 2: Learner Interaction and Social Network Analysis (Weeks 5-8; Feb 6-Mar 19) 
-•	Students are introduced to concepts and measures of SNA and the relationship between network measures and student learning.
-•	Students develop basic skills with NodeXL, a tool for network analyses and visualization, and create a data product that addresses an learner question of interest. 
 
-Unit 3: Discourse Analysis and Text Mining (Weeks 9-12; Mar 20-Apr 16) 
-•	Students are introduced to approaches for analysis text-based data such as online forum postings and student writing products.
-•	Students will explore Topic Modeling Tool and LightSide, tools for text mining and machine learning, and create a data product that addresses a question of interest.
+* Students are introduced to concepts and measures of SNA and the relationship between network measures and student learning.  
+* Students develop basic skills with NodeXL, a tool for network analyses and visualization, and create a data product that addresses an learner question of interest. 
+
+Unit 3: Discourse Analysis and Text Mining (Weeks 9-12; Mar 20-Apr 16)
+
+* Students are introduced to approaches for analysis text-based data such as online forum postings and student writing products.  
+* Students will explore Topic Modeling Tool and LightSide, tools for text mining and machine learning, and create a data product that addresses a question of interest.
 
 Unit 4: Predictive Modeling and Student Learning (Weeks 13-14; Apr 17-April 30)
-•	Students are introduced to predictive modeling with student trace data and explore RapidMiner, a free tool for advanced analytics.
+
+* Students are introduced to predictive modeling with student trace data and explore RapidMiner, a free tool for advanced analytics.
 
 Make-Up Week/Finals (Weeks 15; May 1-10)
 •	Opportunity to make-up incomplete assignments or revise past assignments
