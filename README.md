@@ -1,5 +1,12 @@
-# ED795
-Course Files for ED 795 Text Mining in Education 
+---
+title: "ED 795 Course Syllabus"
+author: "Shaun Kellogg"
+date: "January 7, 2019"
+output:
+  html_document:
+    theme: simplex
+    highlight: pygments
+---
 
 ### Syllabus
 
@@ -32,7 +39,7 @@ Office Hours: any weekday by appointment
 1. *Text Mining with R* is available free online (https://www.tidytextmining.com) or in paperback at O’Reilly and Amazon. 
 2. *R for Data Science* is available free online (https://r4ds.had.co.nz) or in paperback at O’Reilly and Amazon. 
 
-**Required and Recommended Software:** Students must have Internet access and access to a Web browser (e.g., Safari, Firefox, chrome) to participate in this course. The Moodle course site and Web-based software required for completing course projects may only be accessed online. It is strongly recommended that students have high-speed Internet access (e.g., cable modem). Finally, this course requires R and R Studio (linked below) that will be used to provide hands-on experience with the concepts and skills addressed in course readings. While tutorials will be provided for application of these tools, only basic instructions will be provided for their installation and troubleshooting. Students should feel comfortable installing new software programs and navigating unfamiliar graphical user interfaces. It is also recommended that students in this class have some background knowledge of online learning environments (e.g. LMS, MOOCs, etc.) and a understanding of basic descriptive statistics (e.g. distribution, mean, variability, etc.). 
+**Required and Recommended Software:** Students must have Internet access and access to a Web browser (e.g., Safari, Firefox, chrome) to participate in this course. The Moodle course site and Web-based software required for completing course projects may only be accessed online. It is strongly recommended that students have high-speed Internet access (e.g., cable modem). This course requires R and R Studio (linked below) that will be used to provide hands-on experience with the concepts and skills addressed in course readings. R and R studio can be installed on computers running Windows, MacOS, and Linux operating systems. Use of R on Chrome or iOS devices (i.e. iPads) is very limited. Finally, students should feel comfortable installing new software programs and navigating unfamiliar graphical user interfaces. It is also recommended that students in this class have some background knowledge of online learning environments (e.g. LMS, MOOCs, etc.) and an understanding of basic descriptive statistics (e.g. distribution, frequencies, mean, variability, etc.). 
 
 Required: 
 
@@ -41,8 +48,9 @@ Required:
 
 Optional:
 
-3. **Git** is a free and open source distributed version control system. Jenny Bryan’s very thorough installation and R Studio set up process for Mac and Windows can be found here: http://happygitwithr.com. 
-4. **GitHub** is a web-based hosting service for version control using Git. You can create an account here: https://github.com 
+3. **Data Camp** (https://www.datacamp.com) offers interactive R, Python, Sheets, SQL and shell courses on topics in data science, statistics and machine learning. Highly recommend the free Introduction to R course.
+4. **Git** is a free and open source distributed version control system. Jenny Bryan’s very thorough installation and R Studio set up process for Mac and Windows can be found here: http://happygitwithr.com. 
+5. **GitHub** is a web-based hosting service for version control using Git. You can create an account here: https://github.com 
 
 **Server Space:** NC State is a Google Apps for Education institution. Your Google Drive provides "an infinitely large, ultra-secure, and entirely free bookbag for the 21st century."  This space may be useful for your project work, or you may use a third-party Internet service provider to place your data files and projects online (e.g., Github, Dropbox). In addition, Moodle provides space for storing private files. 
 
@@ -56,42 +64,45 @@ Optional:
 
 **Course Structure & Schedule:** This course is divided into 4 four-week units focused on common techniques in the field of learning analytics. Each unit consist of two sections. Section 1 of each unit introduces basic terminology, core concepts, and applications of an analytical approach through readings and course videos. In Section 2 of each unit, students develop skills in explore are provided a video walk-through of the software features using educational data as an example will design and implement an investigation that addresses the main components of the data analytics cycle. 
 
-Unit 1: An Introduction to Learning Analytics and Data Dashboards (Weeks 2-5; Jan 16-Feb 12)
+Course Overview & Introductions (Jan 7-Jan 8)
 
-* Introductions, syllabus review, and completed Learner Agreement.  
-* Students are introduced to the field of Learning Analytics, including general approaches and applications, with an initial focus on visualization of learner data.  
-* Students develop basic skills with Tableau, a tool for data access and visualization, and create a data product that addresses a question of interest. 
+* General housekeeping including introductions, syllabus review, and learner agreement.  
 
-Unit 2: Learner Interaction and Social Network Analysis (Weeks 5-8; Feb 6-Mar 19) 
+Unit 1: Introduction to Text Mining in Education (Jan 9-Feb 5)
 
-* Students are introduced to concepts and measures of SNA and the relationship between network measures and student learning.  
-* Students develop basic skills with NodeXL, a tool for network analyses and visualization, and create a data product that addresses an learner question of interest. 
+* General housekeeping including introductions, syllabus review, and software installation.  
+* Introduction to basic text mining concepts and approaches to analysis including word counts and Term Frequency Inverse Document Frequency (tf-idf).  
+* Introduction to core concepts and features R and R Studio, including packages and functions for collecting, processing, analyzing, and visualization of text as data. 
 
-Unit 3: Discourse Analysis and Text Mining (Weeks 9-12; Mar 20-Apr 16)
+Unit 2: Dictionary-Based Text Analysis (Feb 6 - Mar 5)
 
-* Students are introduced to approaches for analysis text-based data such as online forum postings and student writing products.  
-* Students will explore Topic Modeling Tool and LightSide, tools for text mining and machine learning, and create a data product that addresses a question of interest.
+* Introduction to dictionary-based methods and applications for examining text-based data.
+* Experience analyzing tweets using sentiment analysis, a dictionary-based approach to examining affect or opinions. 
 
-Unit 4: Predictive Modeling and Student Learning (Weeks 13-14; Apr 17-April 30)
+Unit 3: Bag-of-Words Approaches (Mar 4 - March 31)
 
-* Students are introduced to predictive modeling with student trace data and explore RapidMiner, a free tool for advanced analytics.
+* Introduction to approaches for analyzing “bags” or groups of words together in order to capture the broader context in which they are used. 
+* Experience using various R packages for Topic Modeling, a popular approach to automated classification of documents or text. 
+
+
 
 Make-Up Week/Finals (Weeks 15; May 1-10)
-•	Opportunity to make-up incomplete assignments or revise past assignments
 
-Major Assignments/Projects: A major component of this course is active and productive participation in the course learning community through substantive contributions and constructive peer feedback. Students will complete four small data analysis projects, or data products, corresponding with the four major units that comprise the course. Students are permitted to work in small teams on data products, with size of team varying depending on depth of proposed product. Cumulative grades can be tracked during the semester by clicking the "Grades" link on the Moodle menu. All course assignments are submitted online.
+* Opportunity to make-up incomplete assignments or revise past assignments
 
-Assessment: Community engagement and unit data products will be graded using criteria provided in the corresponding rubric. Full credit is not awarded for late work; however, assignments submitted by the due date may be revised and resubmitted for a higher grade by the following week.
+**Major Assignments/Projects:** A major component of this course is active and productive participation in the course learning community through substantive contributions and constructive peer feedback. Students will complete four small data analysis projects, or data products, corresponding with the four major units that comprise the course. Students are permitted to work in small teams on data products, with size of team varying depending on depth of proposed product. Cumulative grades can be tracked during the semester by clicking the "Grades" link on the Moodle menu. All course assignments are submitted online.
 
-Grading Scale: The grading scale is based on 100 points:
+**Assessment:** Community engagement and unit data products will be graded using criteria provided in the corresponding rubric. Full credit is not awarded for late work; however, assignments submitted by the due date may be revised and resubmitted for a higher grade by the following week.
+
+**Grading Scale:** The grading scale is based on 100 points:
 A+ (97-100), A (94-96), A- (90-93), B+ (87-89), B (84-86), B- (80-83)
 C+ (77-79), C (74-76), C- (70-73), D+ (67-69), D (64-66), D- (60-63), F (59 or less)
 
-Course Feedback Expectations: Please contact your instructor via email (shaun.kellogg@ncsu.edu) with any questions about the course project or other assignments. Your instructor will strive to answer any emails within 24 hours (M-F) and 48 hours on the weekend, and grade submitted assignments within 3-5 days of the due date. In addition, students will be provided ongoing opportunities, and are strongly encourage, to provide course feedback for to help improve the design of current and future course implementations. 
+**Course Feedback Expectations:** Please contact your instructor via email (shaun.kellogg@ncsu.edu) with any questions about the course project or other assignments. Your instructor will strive to answer any emails within 24 hours (M-F) and 48 hours on the weekend, and grade submitted assignments within 3-5 days of the due date. In addition, students will be provided ongoing opportunities, and are strongly encourage, to provide course feedback for to help improve the design of current and future course implementations. 
 
-Academic Integrity: Students are bound by the academic integrity policy as stated in the code of student conduct. Therefore, students are required to uphold the university pledge of honor and exercise honesty in completing any assignment. See the website for a full explanation: http://www.ncsu.edu/policies/student_services/student_discipline/POL11.35.1.php
+**Academic Integrity:** Students are bound by the academic integrity policy as stated in the code of student conduct. Therefore, students are required to uphold the university pledge of honor and exercise honesty in completing any assignment. See the website for a full explanation: http://www.ncsu.edu/policies/student_services/student_discipline/POL11.35.1.php
 
-University Non-Discrimination Policies: It is the policy of the State of North Carolina to provide equality of opportunity in education and employment for all students and employees. Accordingly, the university does not practice or condone unlawful discrimination in any form against students, employees or applicants on the grounds of race, color, religion, creed, sex, national origin, age, disability, or veteran status. In addition, North Carolina State University regards discrimination based on sexual orientation to be inconsistent with its goal of providing a welcoming environment in which all its students, faculty, and staff may learn and work up to their full potential.
+**University Non-Discrimination Policies:** It is the policy of the State of North Carolina to provide equality of opportunity in education and employment for all students and employees. Accordingly, the university does not practice or condone unlawful discrimination in any form against students, employees or applicants on the grounds of race, color, religion, creed, sex, national origin, age, disability, or veteran status. In addition, North Carolina State University regards discrimination based on sexual orientation to be inconsistent with its goal of providing a welcoming environment in which all its students, faculty, and staff may learn and work up to their full potential.
 
 Reasonable accommodations will be made for students with verifiable disabilities. In order to take advantage of available accommodations, students must register with Disability Services for Students at 1900 Student Health Center, Campus Box 7509, 515-7653. http://www.ncsu.edu/provost/offices/affirm_action/dss/
 
