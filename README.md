@@ -16,21 +16,16 @@ Course Files for ED 795 Text Mining in Education
 **Meeting Time:** This distance education course is predominantly asynchronous. Online tools are utilized throughout the course for communication and interaction. In addition, we may use Zoom for real-time web conferencing, virtual office hours, or whole class discussions.
 
 
-**Virtual Class Locations:** This course will be taught online through NC State's Moodle course management platform. Access http://wolfware.ncsu.edu/ and log-in with your Unity ID and password. After logging-in, locate and click on the ECI 519 section 602 to access the course site.
+**Virtual Class Locations:** This course will be taught online through NC State's Moodle course management platform. Access http://wolfware.ncsu.edu/ and log-in with your Unity ID and password. After logging-in, locate and click on ED 795 to access the course site.
 
 **Instructor Information:**
 
-Name: Dr. Shaun Kellogg
-
-Email: shaun.kellogg@ncsu.edu
-
-Skype/Twitter/GitHub: @sbkellogg
-
-Office location: Friday Institute for Educational Innovation 
-
-Office phone: (919) 513-8563
-
-Office Hours: any weekday by appointment
+Name: Dr. Shaun Kellogg  
+Email: shaun.kellogg@ncsu.edu  
+Skype/Twitter/GitHub: @sbkellogg  
+Office location: Friday Institute for Educational Innovation  
+Office phone: (919) 513-8563  
+Office Hours: any weekday by appointment  
 
 **Required Course Texts:**
 
